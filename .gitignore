@@ -1,0 +1,9 @@
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db

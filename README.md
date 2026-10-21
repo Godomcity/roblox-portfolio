@@ -1,2 +1,35 @@
-# roblox-portfolio
-Roblox gameplay and server systems portfolio: Story RPG, Catch the Drop!, and Haunted House.
+# Roblox 게임 개발 포트폴리오 코드
+
+직접 담당한 시스템을 소개하기 위한 Luau 코드 발췌본입니다. 게임 전체 소스나 즉시 실행 가능한 템플릿은 아닙니다.
+
+| 프로젝트 | 개발 기간 | 팀 규모 | 코드와 설명 |
+|---|---|---|---|
+| 스토리RPG | 2026.03 - 2026.08 | 4명 | [서버 전투·보스·퀘스트·저장](projects/story-rpg) |
+| Catch the Drop! | 2025.11 - 2026.02 | 4명 | [구매·운반·PvP·모듈 구조](projects/catch-the-drop) |
+| 흔한남매 | 2025.06 - 2025.08 | 4명 | [튜토리얼·NPC·퍼즐·로비](projects/haunted-house) |
+
+## 파일 구성
+
+각 프로젝트의 README에 파일별 역할을 파악할 탐색 순서와 원본 Studio 경로, 실행에 필요한 의존 구조를 기록했습니다.
+
+- .server.luau: Script
+- .client.luau: LocalScript
+- .luau: ModuleScript
+
+코드 파일은 프로젝트별로 모았으며 원본 Studio 경로는 manifest.json에 기록했습니다. Workspace·ServerStorage 하위 코드는 원본 모델의 자식으로 배치해야 합니다. 폴더만 동기화해 원본 모델을 재현할 수 없어 Rojo 실행 설정은 포함하지 않았습니다.
+
+외부 패키지, 보관·백업·테스트 코드, 모델·이미지·음원과 운영 주소를 포함한 설정은 제외했습니다. 일부 의존 서비스와 설정도 생략했습니다.
+
+## 출처와 검증 범위
+
+사용자가 제공한 Roblox 파일의 Source에서 추출했습니다. 담당 범위는 사용자의 확인에 따릅니다. UTF-8·LF로 저장하고 소스 해시와 원본 클래스·경로를 manifest.json에 기록했습니다.
+
+원본 Source와 추출본의 해시, 파일 배치와 README 내부 링크를 확인했습니다. Studio 실행·Luau 문법·실제 게임 동작을 검증한 것은 아닙니다. 알려진 문제를 수정한 버전이나 보안 감사를 완료한 코드가 아닙니다.
+
+## GitHub 업로드
+
+이 폴더를 한 저장소의 루트에 넣으면 세 게임이 projects 아래에서 구분됩니다. 개별 저장소를 원하면 각 projects 하위 폴더와 해당 README를 분리할 수 있습니다.
+
+이 저장소는 담당 시스템을 소개하는 공개 코드 발췌본입니다. 별도 오픈소스 라이선스를 부여하지 않았습니다.
+
+[온라인 포트폴리오](https://app.notion.com/p/40050aca02fb81f5bed7d64bb2549b85)

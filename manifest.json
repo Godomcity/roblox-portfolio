@@ -1,0 +1,386 @@
+[
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/Potal1.server.luau",
+    "studio_path": "/Workspace/OtherDoor/EnterPart/Potal1",
+    "class": "Script",
+    "sha256": "842c271177fc76f0605c763904ebec522c096e6be74895fe78a964aaf3fd91d8",
+    "lines": 154
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/ExitScript.client.luau",
+    "studio_path": "/StarterGui/ExitGui/ExitScript",
+    "class": "LocalScript",
+    "sha256": "c768370740c589ba7460e0249abdb167a314b23a3df6cf0d6e41b4db295427d5",
+    "lines": 43
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/TutorialManager.luau",
+    "studio_path": "/ReplicatedStorage/Modules/TutorialManager",
+    "class": "ModuleScript",
+    "sha256": "3a003cb789455085c616a513afb8806e60398007a31d051de60c7adc9a16c45f",
+    "lines": 236
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/TutorialHandler.server.luau",
+    "studio_path": "/ServerScriptService/TutorialHandler",
+    "class": "Script",
+    "sha256": "620193cce15465ead61cfd2fada1825ae94dcfeafbad66f6a74caff12f21b05e",
+    "lines": 575
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/TutotialLocalScript.client.luau",
+    "studio_path": "/StarterGui/TutorialGui/DialogFrame/TutotialLocalScript",
+    "class": "LocalScript",
+    "sha256": "27a916d10e0827b1ab005bbbde93e45a4090c55806193da4bc60ff1092e794b9",
+    "lines": 243
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/NPCController.luau",
+    "studio_path": "/ReplicatedStorage/NPCController",
+    "class": "ModuleScript",
+    "sha256": "aab94c336bc310aaf4f7ef4d50ed8f3823a72bfc2a993e5a56edcb15f01f2941",
+    "lines": 451
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/LeverClientController.luau",
+    "studio_path": "/ReplicatedStorage/LeverClientController",
+    "class": "ModuleScript",
+    "sha256": "a74278692e4ce1456967024dd3fccb005953f43b92ecff57036b1aed9e0ac30a",
+    "lines": 181
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/LeverPuzzleManager.luau",
+    "studio_path": "/ServerScriptService/LeverPuzzleManager",
+    "class": "ModuleScript",
+    "sha256": "245dd6ba0aab358accbd0d7a31df31012ff3f17e94693bd7edd144bfc9aaa7f6",
+    "lines": 163
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/LeverServerScript.server.luau",
+    "studio_path": "/ServerScriptService/LeverServerScript",
+    "class": "Script",
+    "sha256": "1785ff01434197c874d5ec43759f27cd4abce97e797a3654b3817280aa75d4c5",
+    "lines": 42
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/LeverLocalScript.client.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/LeverLocalScript",
+    "class": "LocalScript",
+    "sha256": "b68dd1274b1db672a5048bbb5edcf5d003ae838e3619e066089d2f50db29f028",
+    "lines": 135
+  },
+  {
+    "project": "haunted-house",
+    "file": "projects/haunted-house/GameManager.server.luau",
+    "studio_path": "/ServerScriptService/GameManager",
+    "class": "Script",
+    "sha256": "23bb7e58f45f3aafcd6367e68952a0af44ce73f6228a626c5b7587702d1c4de0",
+    "lines": 335
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/GameBootstrapper.server.luau",
+    "studio_path": "/ServerScriptService/Core/GameBootstrapper",
+    "class": "Script",
+    "sha256": "c5f4c50f69b98d8524479755bea69ea3af53a04371a2c0559b96d77ea7ad85a3",
+    "lines": 43
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/ClientBootstrapper.client.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/ClientBootstrapper",
+    "class": "LocalScript",
+    "sha256": "905d8ef35d7fe82226f7053d01aa39d229254781beff9ba0f50ea4e86c48f789",
+    "lines": 61
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/MarketService.luau",
+    "studio_path": "/ServerScriptService/Services/MarketService",
+    "class": "ModuleScript",
+    "sha256": "c120267a48473f32970cb099944b57ba4513befcfeb05704893cb1b333107b9a",
+    "lines": 979
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/ShoppingBagService.luau",
+    "studio_path": "/ServerScriptService/Services/ShoppingBagService",
+    "class": "ModuleScript",
+    "sha256": "ffe80a39936442790d4ad0835bfb61730c6bcfb688e91a14e670d4fbbeb2abfd",
+    "lines": 676
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/LootDropService.luau",
+    "studio_path": "/ServerScriptService/Services/LootDropService",
+    "class": "ModuleScript",
+    "sha256": "cbe657da1365aec43e399c8e37ba86d72e377dc3be3173030245452fb13ac660",
+    "lines": 881
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/SkillUtil.luau",
+    "studio_path": "/ReplicatedStorage/Shared/SkillUtil",
+    "class": "ModuleScript",
+    "sha256": "b603f36ee2ef23ad1119dd735c75585af9112637ec138d24ac2aa94013ba80b3",
+    "lines": 556
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/PaparazziService.server.luau",
+    "studio_path": "/ServerScriptService/Skills/PaparazziService",
+    "class": "Script",
+    "sha256": "d938f6cc367359c233c2c5af5ef1f5b2697e7274e3f1f8ba50b50df134c9efb9",
+    "lines": 307
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/BalloonLiftService.server.luau",
+    "studio_path": "/ServerScriptService/Skills/BalloonLiftService",
+    "class": "Script",
+    "sha256": "b056fb9c9f58751c682c3d1438bfed16ee26e73018f0ad974c8eb737dfb14c45",
+    "lines": 530
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/BagBlastService.server.luau",
+    "studio_path": "/ServerScriptService/Skills/BagBlastService",
+    "class": "Script",
+    "sha256": "5f6275b8a473c4c58650c9a3e3f8d6d1f332504c04a68c9996a0ea700294793f",
+    "lines": 555
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/ReceiptService.server.luau",
+    "studio_path": "/ServerScriptService/Skills/ReceiptService",
+    "class": "Script",
+    "sha256": "083b15de6c63bd05ebc35c3e0b4fb82e5c4cf794dec01ea5a215b2e45fcfa672",
+    "lines": 502
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/MannequinService.server.luau",
+    "studio_path": "/ServerScriptService/Skills/MannequinService",
+    "class": "Script",
+    "sha256": "e1e6effff68845aa2ebc739ec2970f9a4ca9a78e3372bd8d99abc367b8bea806",
+    "lines": 375
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/PaparazziController.client.luau",
+    "studio_path": "/ServerStorage/Skills/PaparazziTool/PaparazziController",
+    "class": "LocalScript",
+    "sha256": "a32cef2d270e4d095a7d9d8c04d41cf093bfcbaa3c2b6de6fd5cc5c6532e821d",
+    "lines": 182
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/MannequinController.client.luau",
+    "studio_path": "/ServerStorage/Skills/MannequinTool/MannequinController",
+    "class": "LocalScript",
+    "sha256": "60d761f3b4d9d44e951f44a2a78a424f7c4862400ba171675d89c5ddec160470",
+    "lines": 86
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/BalloonLiftController.client.luau",
+    "studio_path": "/ServerStorage/Skills/BalloonLiftTool/BalloonLiftController",
+    "class": "LocalScript",
+    "sha256": "a08f9c29e72a9fcbb55eae3b719d528658f0d8cb9c638a856181466eca3a5132",
+    "lines": 240
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/ReceiptController.client.luau",
+    "studio_path": "/ServerStorage/Skills/ReceiptTool/ReceiptController",
+    "class": "LocalScript",
+    "sha256": "66c5e32cb74a7a4c8f6ae5590136aaa02c666420abeb9d817bc2a84a0df48173",
+    "lines": 185
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/BagBlastController.client.luau",
+    "studio_path": "/ServerStorage/Skills/ShoppingBagTool/BagBlastController",
+    "class": "LocalScript",
+    "sha256": "3dde2304d66612a7be60f3cd1f12fe224c4683bc9178d950b20ff7289412117f",
+    "lines": 153
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/ReceiptFxClient.client.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/ReceiptFxClient",
+    "class": "LocalScript",
+    "sha256": "e88967007e47a7dc9f81f41a026a0d3637ae900cf324991446214dcf2d886e56",
+    "lines": 313
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/PaparazziFxClient.client.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/PaparazziFxClient",
+    "class": "LocalScript",
+    "sha256": "33aaeb0e3153492f21c7eb41d1a958319651227e3c9d1ca8df4c455ce0c03d44",
+    "lines": 235
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/BalloonLiftFxClient.client.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/BalloonLiftFxClient",
+    "class": "LocalScript",
+    "sha256": "76f62897e762f33cbc6b49842679c0d44f65857b78ade3191190e49b951f7b37",
+    "lines": 198
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/MannequinFxClient.client.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/MannequinFxClient",
+    "class": "LocalScript",
+    "sha256": "d337dda2be94b30eca4a1da9984be1529b0377f4bdea4945f5966fc47b236540",
+    "lines": 197
+  },
+  {
+    "project": "catch-the-drop",
+    "file": "projects/catch-the-drop/BagBlastVFXController.luau",
+    "studio_path": "/StarterPlayer/StarterPlayerScripts/Controllers/BagBlastVFXController",
+    "class": "ModuleScript",
+    "sha256": "550989135a0ae95e62d0f8ec034116e101f7c3156e7a22f4c1a306d6dabe390a",
+    "lines": 436
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/CombatService.luau",
+    "studio_path": "/ServerScriptService/Services/CombatService",
+    "class": "ModuleScript",
+    "sha256": "659a851e3300ad054005e9e36cae62af2272046a5803b5dc4da04ec9f94ba0f4",
+    "lines": 951
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/MonsterService.luau",
+    "studio_path": "/ServerScriptService/Services/MonsterService",
+    "class": "ModuleScript",
+    "sha256": "596da7913fda38473a24566cde88e1be61cc39a9b5984ceb00b8cf81981da88e",
+    "lines": 3970
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/FieldBossService.luau",
+    "studio_path": "/ServerScriptService/Services/FieldBossService",
+    "class": "ModuleScript",
+    "sha256": "91290d5ad53ad1a8c5823539768c57406e857d80f45af40af9db05920ce34cfb",
+    "lines": 8467
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/QuestChainService.luau",
+    "studio_path": "/ServerScriptService/Services/QuestChainService",
+    "class": "ModuleScript",
+    "sha256": "a977f6894e9e614b4e4af3d76c03df6c175565b6823ef7101afc1afdfe1a6ce5",
+    "lines": 836
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/DataService.luau",
+    "studio_path": "/ServerScriptService/Services/DataService",
+    "class": "ModuleScript",
+    "sha256": "2dceb6374cbe9c5443c4403aeeee5fb2251828ab16b186d9b9351dd44335c110",
+    "lines": 622
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/Scheduler.luau",
+    "studio_path": "/ServerScriptService/Services/Scheduler",
+    "class": "ModuleScript",
+    "sha256": "1c01a7d55717909d7a84e163cffbb17e29703e9edbb9823ee5129362a834da50",
+    "lines": 52
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/PlayerDamageService.luau",
+    "studio_path": "/ServerScriptService/Services/PlayerDamageService",
+    "class": "ModuleScript",
+    "sha256": "f2b4dd6fc4c6f9f17eda5dea620ee50c8a5de8c20b74154f0aeb9987283b43d9",
+    "lines": 87
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/DashService.luau",
+    "studio_path": "/ServerScriptService/Services/DashService",
+    "class": "ModuleScript",
+    "sha256": "13ad9c46a58d70a2d8d0a16221af5660876e60d8af219434ad600450bdd5a045",
+    "lines": 85
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/SkillService.luau",
+    "studio_path": "/ServerScriptService/Services/SkillService",
+    "class": "ModuleScript",
+    "sha256": "fd76568066ffa48f7350fbf723b203b6071f81a0f1659db6b1f65888c462576b",
+    "lines": 2367
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/Net.luau",
+    "studio_path": "/ReplicatedStorage/Net",
+    "class": "ModuleScript",
+    "sha256": "e0d231dd06783c7acdb79041d6aa01cd5ff2c91a55dcece6702e261978196ca4",
+    "lines": 179
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/Util.luau",
+    "studio_path": "/ReplicatedStorage/Shared/Util",
+    "class": "ModuleScript",
+    "sha256": "d72ba5fbc6fdeec05348f7d0071d0d10b43cb266dddffc320d3a42abfe9bae16",
+    "lines": 56
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/LevelDefs.luau",
+    "studio_path": "/ReplicatedStorage/Defs/LevelDefs",
+    "class": "ModuleScript",
+    "sha256": "4b872a59885a042187a637e8e3b221f7247d7144765a35db844a615abca94edb",
+    "lines": 34
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/StatDefs.luau",
+    "studio_path": "/ReplicatedStorage/Defs/StatDefs",
+    "class": "ModuleScript",
+    "sha256": "1fe7ba2ef4a0442663970d6a5479188fe36611a8ed560e30bb5901fbec942461",
+    "lines": 19
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/QuestChainDefs.luau",
+    "studio_path": "/ReplicatedStorage/Defs/QuestChainDefs",
+    "class": "ModuleScript",
+    "sha256": "0c21b698c244d76a6a1a4c9618c298fbab253c8ee2fdbaab3c1e4c6ff73cc171",
+    "lines": 115
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/WolfDifficultyDefs.luau",
+    "studio_path": "/ReplicatedStorage/Defs/WolfDifficultyDefs",
+    "class": "ModuleScript",
+    "sha256": "017ccf011a4f15be59850f849d2ba9f57474c5b7ddeaf526397e14ba0acf0fdb",
+    "lines": 168
+  },
+  {
+    "project": "story-rpg",
+    "file": "projects/story-rpg/WeaponTypeDefs.luau",
+    "studio_path": "/ReplicatedStorage/Defs/WeaponTypeDefs",
+    "class": "ModuleScript",
+    "sha256": "d0b0ac531ef19aab3958e072925a5d2c89531396a9c7f9bcc0203e7c90a2dfdd",
+    "lines": 172
+  }
+]
