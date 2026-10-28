@@ -8,10 +8,6 @@
 
 GameBootstrapper, ClientBootstrapper, MarketService, ShoppingBagService, LootDropService, Skills, SkillUtil
 
-## Studio 의존 구조
-
-Network 통신 객체, Constants·Utils·ItemDatabase, DataService·CurrencyService·InventoryService·TycoonService·FurnitureMarketService 등 생략된 모듈과 레일·부지·입고 지점·쇼핑백·스킬 모델·UI가 필요합니다. 부트스트랩은 구조 예시이며 원본의 전체 서비스를 로드하므로 발췌본만으로 실행할 수 없습니다.
-
 ## 코드 목록
 
 | 파일 | Studio 경로 | 종류 |
@@ -39,5 +35,3 @@ Network 통신 객체, Constants·Utils·ItemDatabase, DataService·CurrencyServ
 | [BagBlastVFXController.luau](BagBlastVFXController.luau) | /StarterPlayer/StarterPlayerScripts/Controllers/BagBlastVFXController | ModuleScript |
 
 ## 범위
-
-원본 소스에서 선별한 코드 발췌본입니다. 코드 수정·버그 수정·재설계를 수행하지 않았습니다. 생략된 모듈·모델·UI 때문에 단독 실행할 수 없습니다. Studio 실행 및 Luau 문법·동작 테스트는 수행하지 않았습니다. 주석에 적힌 개선 수치는 별도 검증된 성과가 아닙니다.
