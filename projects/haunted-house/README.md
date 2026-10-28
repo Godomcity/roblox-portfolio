@@ -10,8 +10,6 @@ TutorialHandler, TutorialManager, NPCController, LeverPuzzleManager, LeverClient
 
 ## Studio 의존 구조
 
-NPC 모델·Humanoid·Animator·Hitbox, 문·PrimaryPart, 열쇠·스폰 지점, 레버·ActivePlayer·힌트 Decal, 방향·대화 UI와 RemoteEvent가 필요합니다. ZonePlus·SelfieMode 및 SoundManager는 포함하지 않았습니다. 같은 이름의 OtherDoor가 여러 개이며, 포털 한 개만 예시로 포함했습니다.
-
 ## 코드 목록
 
 | 파일 | Studio 경로 | 종류 |
@@ -29,5 +27,3 @@ NPC 모델·Humanoid·Animator·Hitbox, 문·PrimaryPart, 열쇠·스폰 지점,
 | [GameManager.server.luau](GameManager.server.luau) | /ServerScriptService/GameManager | Script |
 
 ## 범위
-
-원본 소스에서 선별한 코드 발췌본입니다. 코드 수정·버그 수정·재설계를 수행하지 않았습니다. 생략된 모듈·모델·UI 때문에 단독 실행할 수 없습니다. Studio 실행 및 Luau 문법·동작 테스트는 수행하지 않았습니다. 주석에 적힌 개선 수치는 별도 검증된 성과가 아닙니다.
