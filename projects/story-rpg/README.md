@@ -10,8 +10,6 @@ CombatService, MonsterService, FieldBossService, QuestChainService, DataService,
 
 ## Studio 의존 구조
 
-GameConfig·ProfileTemplate·MonsterDefs·WeaponDefs·AVDefs·SkillDefs, PlayerService·AnalyticsService·CraftService·LootService 등 생략된 모듈과 몬스터·보스 모델, 스폰 마커·구역·UI·이펙트가 필요합니다. GameConfig의 운영 주소와 인증 설정은 포함하지 않았습니다. 격리된 테스트 저장소와 Studio 모의 저장 설정을 별도로 구성해야 합니다.
-
 ## 코드 목록
 
 | 파일 | Studio 경로 | 종류 |
