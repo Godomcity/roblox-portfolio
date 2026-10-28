@@ -8,8 +8,6 @@
 
 TutorialHandler, TutorialManager, NPCController, LeverPuzzleManager, LeverClientController, Potal1
 
-## Studio 의존 구조
-
 ## 코드 목록
 
 | 파일 | Studio 경로 | 종류 |
