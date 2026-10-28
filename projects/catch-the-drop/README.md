@@ -33,5 +33,3 @@ GameBootstrapper, ClientBootstrapper, MarketService, ShoppingBagService, LootDro
 | [BalloonLiftFxClient.client.luau](BalloonLiftFxClient.client.luau) | /StarterPlayer/StarterPlayerScripts/BalloonLiftFxClient | LocalScript |
 | [MannequinFxClient.client.luau](MannequinFxClient.client.luau) | /StarterPlayer/StarterPlayerScripts/MannequinFxClient | LocalScript |
 | [BagBlastVFXController.luau](BagBlastVFXController.luau) | /StarterPlayer/StarterPlayerScripts/Controllers/BagBlastVFXController | ModuleScript |
-
-## 범위
