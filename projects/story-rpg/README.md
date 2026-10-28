@@ -32,5 +32,3 @@ CombatService, MonsterService, FieldBossService, QuestChainService, DataService,
 | [WeaponTypeDefs.luau](WeaponTypeDefs.luau) | /ReplicatedStorage/Defs/WeaponTypeDefs | ModuleScript |
 
 ## 범위
-
-원본 소스에서 선별한 코드 발췌본입니다. 코드 수정·버그 수정·재설계를 수행하지 않았습니다. 생략된 모듈·모델·UI 때문에 단독 실행할 수 없습니다. Studio 실행 및 Luau 문법·동작 테스트는 수행하지 않았습니다. 주석에 적힌 개선 수치는 별도 검증된 성과가 아닙니다.
