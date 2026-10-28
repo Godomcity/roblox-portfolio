@@ -8,8 +8,6 @@
 
 CombatService, MonsterService, FieldBossService, QuestChainService, DataService, SkillService
 
-## Studio 의존 구조
-
 ## 코드 목록
 
 | 파일 | Studio 경로 | 종류 |
@@ -30,5 +28,3 @@ CombatService, MonsterService, FieldBossService, QuestChainService, DataService,
 | [QuestChainDefs.luau](QuestChainDefs.luau) | /ReplicatedStorage/Defs/QuestChainDefs | ModuleScript |
 | [WolfDifficultyDefs.luau](WolfDifficultyDefs.luau) | /ReplicatedStorage/Defs/WolfDifficultyDefs | ModuleScript |
 | [WeaponTypeDefs.luau](WeaponTypeDefs.luau) | /ReplicatedStorage/Defs/WeaponTypeDefs | ModuleScript |
-
-## 범위
