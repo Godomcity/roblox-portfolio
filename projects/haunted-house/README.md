@@ -23,5 +23,3 @@ TutorialHandler, TutorialManager, NPCController, LeverPuzzleManager, LeverClient
 | [LeverServerScript.server.luau](LeverServerScript.server.luau) | /ServerScriptService/LeverServerScript | Script |
 | [LeverLocalScript.client.luau](LeverLocalScript.client.luau) | /StarterPlayer/StarterPlayerScripts/LeverLocalScript | LocalScript |
 | [GameManager.server.luau](GameManager.server.luau) | /ServerScriptService/GameManager | Script |
-
-## 범위
